@@ -74,4 +74,4 @@ The application demonstrates core frontend concepts such as state management, AP
 git clone <your-repo-link>
 cd project-folder
 npm install
-npm start
+npm run dev
